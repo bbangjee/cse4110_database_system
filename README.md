@@ -24,6 +24,11 @@ cse4110_database_system/
 │   ├── database/             # SQL 스크립트
 │   ├── src/                  # C++ 소스코드
 │   └── README.md             # 구현 가이드
+├── notes/                    # 필기 노트 폴더
+│   └── ch02_공부.pdf         # ch02 공부
+│   └── ch03_공부.pdf         # ch03 공부
+│   └── ch06_공부.pdf         # ch06 공부
+│   └── ch07_공부.pdf         # ch07 공부
 └── README.md                 # 이 파일
 ```
 
