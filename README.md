@@ -25,6 +25,7 @@
 cse4110_database_system/
 ├── prj01/                    # Project 1: E-R 다이어그램 설계
 │   └── 20190808_방지혁.pdf   # ERD 설계 보고서
+|   └── 20190808_방지혁.png   # ER Diagram
 ├── prj02/                    # Project 2: 데이터베이스 구현
 │   ├── docs/                 # 설계 문서
 │   ├── database/             # SQL 스크립트
@@ -88,10 +89,6 @@ cse4110_database_system/
 - 정규화 및 최적화 기법 적용
 - C++과 MySQL 연동 프로그래밍
 - 대용량 데이터 처리 및 쿼리 최적화
-
-## 📞 문의
-
-프로젝트 관련 문의사항이나 개선사항이 있으시면 언제든 연락주세요.
 
 ---
 
